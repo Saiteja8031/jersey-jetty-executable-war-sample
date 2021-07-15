@@ -6,9 +6,8 @@
 	<artifactId>jersey-jetty-executable-war-sample</artifactId>
 	<version>1.0.0</version>
 	<packaging>war</packaging>
-
 	<name>jersey-jetty-executable-war-sample</name>
-	<url></url>
+	<url>http://maven.apache.org</url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
